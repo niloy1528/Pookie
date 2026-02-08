@@ -100,7 +100,7 @@ export default function App() {
                   💖 Yeeeeeeee Tmr Bou Peye Gesi... Ammuuuuuuu 💖
                 </h3>
                 <img
-                  src="/public/143.png"
+                  src="/143.png"
                   alt="Happy"
                   className="w-48 h-48 object-cover rounded-xl mx-auto mb-6 shadow-lg"
                 />
@@ -127,7 +127,7 @@ export default function App() {
           <div className="relative border-l-4 border-rose-300 pl-8 space-y-14">
             <div className="flex gap-6 items-start">
               <img
-                src="/public/inst.jpeg"
+                src="/inst.jpeg"
                 alt="First talk"
                 className="w-24 h-24 object-cover rounded-xl shadow"
               />
@@ -139,7 +139,7 @@ export default function App() {
 
             <div className="flex gap-6 items-start">
               <img
-                src="/public/d1.jpeg"
+                src="/d1.jpeg"
                 alt="1st"
                 className="w-24 h-24 object-cover rounded-xl shadow"
               />
@@ -151,7 +151,7 @@ export default function App() {
 
             <div className="flex gap-6 items-start">
               <img
-                src="/public/d2.jpeg"
+                src="/d2.jpeg"
                 alt="2nd"
                 className="w-24 h-24 object-cover rounded-xl shadow"
               />
@@ -163,7 +163,7 @@ export default function App() {
 
             <div className="flex gap-6 items-start">
               <img
-                src="/public/d3.jpeg"
+                src="/d3.jpeg"
                 alt="3rd"
                 className="w-24 h-24 object-cover rounded-xl shadow"
               />
@@ -175,7 +175,7 @@ export default function App() {
 
             <div className="flex gap-6 items-start">
               <img
-                src="/public/d4.jpeg"
+                src="/d4.jpeg"
                 alt="4th"
                 className="w-24 h-24 object-cover rounded-xl shadow"
               />
@@ -186,7 +186,7 @@ export default function App() {
             </div>
             <div className="flex gap-6 items-start">
               <img
-                src="/public/143.png"
+                src="/143.png"
                 alt="next"
                 className="w-24 h-24 object-cover rounded-xl shadow"
               />
